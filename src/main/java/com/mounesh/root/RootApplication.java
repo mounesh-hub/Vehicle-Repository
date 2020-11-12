@@ -18,7 +18,7 @@ public class RootApplication {
         return "welcome admin";
     }
 
-    @GetMapping("/user")
+    @GetMapping("/user1")
     public String getData1(){
         return "welcome user";
     }
