@@ -23,4 +23,8 @@ public class RootApplication {
         return "welcome user";
     }
 
+    public String test(){
+        return "welcome user";
+    }
+
 }
